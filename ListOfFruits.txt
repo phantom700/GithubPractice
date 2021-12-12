@@ -5,3 +5,6 @@ Orange
 Mango
 Avocado
 Dates
+
+Cucombers
+Bananas
